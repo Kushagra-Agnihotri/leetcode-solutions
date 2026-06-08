@@ -1,4 +1,4 @@
-# 0. 0
+# 0. Without modulo operation
 
 **Difficulty:** 🟢 Easy  
 **Language:** Python3  
