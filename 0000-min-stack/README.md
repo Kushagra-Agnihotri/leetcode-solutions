@@ -1,7 +1,7 @@
 # 0. 0
 
 **Difficulty:** 🟡 Medium  
-**Language:** Python3  
+**Language:** Java  
 **Link:** [LeetCode Problem](https://leetcode.com/problems/min-stack/)  
 
 ---
